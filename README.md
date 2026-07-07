@@ -1,7 +1,7 @@
 # Boom-Framework
-Boom PHP Framework
+## Boom PHP Framework
 
-Boom Framework can optimize for architectural clarity.
+### Boom Framework can optimize for architectural clarity.
 
 If a developer opens any file in Boom Framework, they should immediately understand:
 
@@ -11,7 +11,7 @@ If a developer opens any file in Boom Framework, they should immediately underst
 
 The Three Pillars of Boom Framework: Application, Container, and Configuration.
 
-The framework revolves around these three core objects:
+The framework revolves around these #three core objects:
 
 Application
       │
@@ -30,6 +30,3 @@ Container → Composition ("How are objects created?")
 Configuration → Behavior ("How should the application behave?")
 
 The Kernel simply coordinates them.
-
-
-# Why This Matters
